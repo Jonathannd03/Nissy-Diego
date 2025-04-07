@@ -1,0 +1,72 @@
+{
+  "welcome": {
+    "title": "Willkommen zur Hochzeit von Nissy & Diego",
+    "date_location": "9. August 2025 • Düren, Deutschland",
+    "cta": "Feierdetails ansehen"
+  },
+  "common": {
+    "couple_names": "Nissy & Diego",
+    "wedding_date": "9. August 2025",
+    "location": "Düren, Deutschland"
+  },
+  "nav": {
+    "home": "Startseite",
+    "story": "Unsere Geschichte",
+    "details": "Feierlichkeiten",
+    "gallery": "Galerie",
+    "rsvp": "Anmeldung"
+  },
+  "hero": {
+    "title": "Nissy & Diego",
+    "date": "9. August 2025 • Düren, Deutschland",
+    "subtitle": "Wir heiraten!"
+  },
+  "story": {
+    "title": "Unsere Liebesgeschichte",
+    "how_we_met": "Wir trafen uns 2018 in Köln während eines Musikfestivals. Diego spielte in einer Band und Nissy war mit Freunden dort.",
+    "first_date": "Unser erstes Date war in einer kleinen Kaffeebar in der Altstadt. Wir haben drei Stunden geredet ohne es zu merken.",
+    "proposal": "Diego hat vorgeschlagen während eines Sonnenuntergangs am Mittelmeer im Sommer 2023.",
+    "looking_forward": "Wir freuen uns darauf, unser Leben gemeinsam zu verbringen und viele Abenteuer zu erleben."
+  },
+  "schedule": {
+    "title": "Feierlichkeiten",
+    "ceremony": {
+      "title": "Kirchliche Trauung",
+      "time": "14:00 Uhr",
+      "location": "Kirche Le Rocher, Veldener Str. 45, 52349 Düren",
+      "description": "Mit großer Freude laden wir euch ein, mit uns die Segnung unserer Ehe zu feiern."
+    },
+    "reception": {
+      "title": "Sektempfang & Feier",
+      "time": "20:00 Uhr",
+      "location": "Saal Grand Palace, Steffenrott 10, 52428 Jülich",
+      "description": "Es wäre uns eine Ehre, euch an diesem besonderen Tag bei uns zu haben."
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Einige unserer schönsten Momente",
+    "more_photos": "Mehr Fotos anzeigen"
+  },
+  "rsvp": {
+    "title": "Anmeldung",
+    "deadline": "Bitte bestätigt eure Teilnahme bis spätestens",
+    "name": "Name",
+    "email": "Email",
+    "attending": "Könnt ihr kommen?",
+    "yes": "Ja, wir freuen uns darauf!",
+    "no": "Leider können wir nicht kommen",
+    "guests": "Anzahl der Gäste",
+    "dietary": "Besondere Ernährungsanforderungen",
+    "dietary_placeholder": "Vegetarisch, Vegan, Allergien, etc.",
+    "message": "Nachricht für das Brautpaar",
+    "message_placeholder": "Wir wünschen euch alles Gute...",
+    "submit": "Absenden",
+    "contact": "Kontakt für Fragen",
+    "success": "Danke für deine Anmeldung! Wir freuen uns, dich zu sehen."
+  },
+  "footer": {
+    "quote": "Liebe besteht nicht darin, dass man einander ansieht, sondern dass man gemeinsam in die gleiche Richtung blickt.",
+    "author": "- Antoine de Saint-Exupéry"
+  }
+}

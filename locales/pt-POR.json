@@ -1,0 +1,72 @@
+{
+  "welcome": {
+    "title": "Bem-vindos ao casamento de Nissy & Diego",
+    "date_location": "9 de agosto de 2025 • Düren, Alemanha",
+    "cta": "Ver detalhes da celebração"
+  },
+  "common": {
+    "couple_names": "Nissy & Diego",
+    "wedding_date": "9 de agosto de 2025",
+    "location": "Düren, Alemanha"
+  },
+  "nav": {
+    "home": "Início",
+    "story": "Nossa história",
+    "details": "Celebração",
+    "gallery": "Galeria",
+    "rsvp": "Confirmação"
+  },
+  "hero": {
+    "title": "Nissy & Diego",
+    "date": "9 de agosto de 2025 • Düren, Alemanha",
+    "subtitle": "Nós vamos nos casar!"
+  },
+  "story": {
+    "title": "Nossa história de amor",
+    "how_we_met": "Nos conhecemos em 2018 em Colônia durante um festival de música. Diego tocava em uma banda e Nissy estava lá com amigos.",
+    "first_date": "Nosso primeiro encontro foi em uma pequena cafeteria no centro histórico. Conversamos por três horas sem perceber.",
+    "proposal": "Diego fez o pedido durante o pôr do sol no Mediterrâneo no verão de 2023.",
+    "looking_forward": "Estamos ansiosos para viver nossa vida juntos e passar por muitas aventuras."
+  },
+  "schedule": {
+    "title": "Celebração",
+    "ceremony": {
+      "title": "Cerimônia Religiosa",
+      "time": "14:00",
+      "location": "Igreja Le Rocher, Veldener Str. 45, 52349 Düren",
+      "description": "Com grande alegria, convidamos vocês para celebrar a bênção do nosso casamento."
+    },
+    "reception": {
+      "title": "Recepção & Festa",
+      "time": "20:00",
+      "location": "Salão Grand Palace, Steffenrott 10, 52428 Jülich",
+      "description": "Será uma honra ter vocês conosco neste dia tão especial."
+    }
+  },
+  "gallery": {
+    "title": "Galeria",
+    "subtitle": "Alguns dos nossos momentos mais especiais",
+    "more_photos": "Ver mais fotos"
+  },
+  "rsvp": {
+    "title": "Confirmação de Presença",
+    "deadline": "Por favor, confirme sua presença até",
+    "name": "Nome",
+    "email": "Email",
+    "attending": "Você poderá comparecer?",
+    "yes": "Sim, estamos ansiosos!",
+    "no": "Infelizmente, não poderemos ir",
+    "guests": "Número de convidados",
+    "dietary": "Restrições alimentares especiais",
+    "dietary_placeholder": "Vegetariano, Vegano, Alergias, etc.",
+    "message": "Mensagem para os noivos",
+    "message_placeholder": "Desejamos tudo de melhor para vocês...",
+    "submit": "Enviar",
+    "contact": "Contato para dúvidas",
+    "success": "Obrigado pela confirmação! Estamos ansiosos para te ver."
+  },
+  "footer": {
+    "quote": "Amar não é olhar um para o outro, é olhar juntos na mesma direção.",
+    "author": "- Antoine de Saint-Exupéry"
+  }
+}

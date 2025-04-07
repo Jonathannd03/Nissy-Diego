@@ -1,0 +1,72 @@
+{
+  "welcome": {
+    "title": "Bienvenue au mariage de Nissy & Diego",
+    "date_location": "9 août 2025 • Düren, Allemagne",
+    "cta": "Voir les détails de la célébration"
+  },
+  "common": {
+    "couple_names": "Nissy & Diego",
+    "wedding_date": "9 août 2025",
+    "location": "Düren, Allemagne"
+  },
+  "nav": {
+    "home": "Accueil",
+    "story": "Notre histoire",
+    "details": "Célébration",
+    "gallery": "Galerie",
+    "rsvp": "RSVP"
+  },
+  "hero": {
+    "title": "Nissy & Diego",
+    "date": "9 août 2025 • Düren, Allemagne",
+    "subtitle": "Nous nous marions!"
+  },
+  "story": {
+    "title": "Notre histoire d'amour",
+    "how_we_met": "Nous nous sommes rencontrés en 2018 à Cologne lors d'un festival de musique. Diego jouait dans un groupe et Nissy était là avec des amis.",
+    "first_date": "Notre premier rendez-vous était dans un petit café du vieux ville. Nous avons parlé pendant trois heures sans nous en rendre compte.",
+    "proposal": "Diego a proposé pendant un coucher de soleil sur la Méditerranée à l'été 2023.",
+    "looking_forward": "Nous avons hâte de vivre notre vie ensemble et de vivre de nombreuses aventures."
+  },
+  "schedule": {
+    "title": "Célébration",
+    "ceremony": {
+      "title": "Mariage religieux",
+      "time": "14h00",
+      "location": "Église Le Rocher, Veldener Str. 45, 52349 Düren",
+      "description": "C'est avec une grande joie que nous vous invitons à célébrer avec nous la bénédiction de notre mariage."
+    },
+    "reception": {
+      "title": "Réception & Fête",
+      "time": "20h00",
+      "location": "Salle Grand Palace, Steffenrott 10, 52428 Jülich",
+      "description": "Ce serait un honneur de vous avoir avec nous en ce jour spécial."
+    }
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Quelques-uns de nos plus beaux moments",
+    "more_photos": "Voir plus de photos"
+  },
+  "rsvp": {
+    "title": "RSVP",
+    "deadline": "Merci de confirmer votre présence avant le",
+    "name": "Nom",
+    "email": "Email",
+    "attending": "Pouvez-vous venir?",
+    "yes": "Oui, nous sommes impatients!",
+    "no": "Non, malheureusement nous ne pouvons pas venir",
+    "guests": "Nombre d'invités",
+    "dietary": "Exigences alimentaires particulières",
+    "dietary_placeholder": "Végétarien, Vegan, Allergies, etc.",
+    "message": "Message pour les mariés",
+    "message_placeholder": "Nous vous souhaitons tout le bonheur...",
+    "submit": "Envoyer",
+    "contact": "Contact pour questions",
+    "success": "Merci pour votre réponse! Nous avons hâte de vous voir."
+  },
+  "footer": {
+    "quote": "Aimer, ce n'est pas se regarder l'un l'autre, c'est regarder ensemble dans la même direction.",
+    "author": "- Antoine de Saint-Exupéry"
+  }
+}
